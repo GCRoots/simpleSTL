@@ -1,0 +1,18 @@
+/**
+ * Created by 史进 on 2023/6/2.
+ *
+ *
+ *
+ */
+#ifndef SIMPLESTL_MEMORY_H
+#define SIMPLESTL_MEMORY_H
+
+#include "__memory/stl_construct.h"
+#include "__memory/stl_uninitialized.h"
+
+namespace simple_stl{
+
+
+}   // simple_stl
+
+#endif //SIMPLESTL_MEMORY_H
